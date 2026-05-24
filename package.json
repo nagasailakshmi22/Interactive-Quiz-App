@@ -1,0 +1,14 @@
+{
+  "name": "interactive-quiz-app",
+  "version": "1.0.0",
+  "description": "A full-stack quiz application built with Node.js, Express.js, and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0",
+    "cors": "^2.8.5"
+  }
+}
